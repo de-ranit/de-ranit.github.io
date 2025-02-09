@@ -12,7 +12,7 @@ nav_order:
 <br>Hans-Knöll-Str. 10
 <br>07745 Jena, Germany
 <br>Internet: <a href='https://de-ranit.github.io/'>https://de-ranit.github.io/</a>
-<br>Email: de.ranit19@gmail.com
+<br>Email: <a href="mailto:rde@bgc-jena.mpg.de">rde@bgc-jena.mpg.de</a> or <a href="mailto:de.ranit19@gmail.com">de.ranit19@gmail.com</a> 
 
 **Data Protection**
 <br>This website is generated from the GitHub template: <a href='https://github.com/alshedivat/al-folio'>https://github.com/alshedivat/al-folio</a>), powered by <a href='https://jekyllrb.com/'>Jekyll</a>, and hosted on <a href='https://pages.github.com/'>GitHub Pages</a>. The website editor has no influence on the collection and processing of data through the use of these services, and it is the liability of the respective service providers. The privacy statement of GitHub Pages can be found <a href='https://docs.github.com/en/site-policy/privacy-policies'>here</a>.
