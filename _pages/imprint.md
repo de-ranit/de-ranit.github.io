@@ -7,17 +7,17 @@ nav: false
 nav_order:
 ---
 
-**Editor and resposnible person**
+**Editor and Resposnible Person**
 <br>Ranit De
 <br>Hans-Knöll-Str. 10
 <br>07745 Jena, Germany
 <br>Internet: <a href='https://de-ranit.github.io/'>https://de-ranit.github.io/</a>
 <br>Email: de.ranit19@gmail.com
 
-**Data protection**
+**Data Protection**
 <br>This website is generated from the GitHub template (<a href='https://github.com/alshedivat/al-folio'>https://github.com/alshedivat/al-folio</a>), powered by <a href='https://jekyllrb.com/'>Jekyll</a>, and hosted on <a href='https://pages.github.com/'>GitHub Pages</a>. The website editor has no influence on the collection and processing of data through the use of these services, and it is the liability of the respective service providers. The privacy statement of GitHub Pages can be found <a href='https://docs.github.com/en/site-policy/privacy-policies'>here</a>.
 
-**Usage of GitHub template**
+**Usage of GitHub Template**
 <br>This website is generated from a GitHub template (<a href='https://github.com/alshedivat/al-folio'>https://github.com/alshedivat/al-folio</a>) that was not created by the editor of this website but was modified by them, or a modification is planned. This is labelled as such in the footer of the website ("Powered by <a href='https://jekyllrb.com/'>Jekyll</a> with <a href='https://github.com/alshedivat/al-folio'>al-folio theme</a>."). The website editor check the content of this template as far as this is feasible and reasonable for the purpose of the creating and deploying this website. As a rule, however, the editor cannot take responsibility for all parts that were not originally created by them. The respective contributions of all persons can be traced in the history of the original template (<a href='https://github.com/alshedivat/al-folio'>https://github.com/alshedivat/al-folio</a>). If any content is legally objectionable, the editor of this website would be grateful if you could let them know.
 
 <p>
