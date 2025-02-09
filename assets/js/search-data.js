@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
+  },{id: "nav-imprint",
+          title: "imprint",
+          description: "Under construction!! 👨‍💻",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/imprint/";
+          },
+        },{id: "nav-publications",
           title: "publications",
           description: "Under construction!! 👨‍💻",
           section: "Navigation",
@@ -17,7 +24,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "Projects",
+          title: "projects",
           description: "Under construction!! 👨‍💻",
           section: "Navigation",
           handler: () => {
@@ -29,13 +36,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
-          },
-        },{id: "nav-imprint",
-          title: "imprint",
-          description: "Under construction!! 👨‍💻",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/imprint/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
