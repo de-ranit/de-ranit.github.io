@@ -34,13 +34,6 @@ Before starting my PhD, I earned a master's degree in Geo-information Science an
 Other than work, I am interested in exploring local landscapes ⛰️ by trains 🚂, and enjoying a nice home-cooked meal 🍲.
 
 <h2>Research Interest</h2>
-ul {
-  list-style: none;
-}
-
-ul li:before {
-  content: '✓';
-}
 <ul>
   <li>Global carbon cycle</li>
   <li>Simulating GPP flux</li>
