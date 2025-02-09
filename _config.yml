@@ -2,13 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: <span class="font-weight-bold">Ranit</span> De (রণিত দে | रणित दे)  # the website title (if blank, full name will be used instead)
 first_name: Ranit
 middle_name: 
 last_name: De
-regional_name: (রণিত দে | रणित दे)
 contact_note: >
-  Reach out to me via email or LinkedIn.
+  Reach out to me via <a href="mailto:rde@bgc-jena.mpg.de">email</a> or <a href="https://www.linkedin.com/in/ranitde">LinkedIn</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
