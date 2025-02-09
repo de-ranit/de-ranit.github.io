@@ -39,5 +39,3 @@ Other than work, I am interested in exploring local landscapes ⛰️ by trains 
   <li>Simulating GPP flux</li>
   <li>Model-Data assimilation</li>
 </ul>
-
-Under construction!! 👨‍💻
