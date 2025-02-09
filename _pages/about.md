@@ -21,10 +21,6 @@ announcements:
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a PhD researcher with <a href="https://www.bgc-jena.mpg.de/person/ncarval/5335138">Dr. Nuno Carvalhais</a> in <a href="https://www.bgc-jena.mpg.de/en/bgi/mdi">Model-Data Integration</a> group at <a href='https://www.bgc-jena.mpg.de/en'> Max Planck Institute for Biogeochemistry</a>. I work on simulating gross primary production (GPP) at sub-daily scale using eddy-covariance data and light use efficiency-based models. My main focus is understanding the factors influencing interannual variability (IAV) in carbon fluxes and how their representations can be improved in biogeochemical models.
