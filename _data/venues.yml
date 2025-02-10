@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"ESSOAR":
+  url: https://essopenarchive.org/
+  color: "#68ABBA"
+
+"JAMES":
+  url: https://agupubs.onlinelibrary.wiley.com/journal/19422466
+  color: "#033F56"
