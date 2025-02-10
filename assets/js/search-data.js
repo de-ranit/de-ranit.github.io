@@ -4,27 +4,27 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order. (Under construction!! 👨‍💻)",
+          title: "Publications",
+          description: "Publications by categories in reversed chronological order. (Under construction!! 👨‍💻)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
+          title: "Projects",
           description: "Under construction!! 👨‍💻",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Under construction!! 👨‍💻",
           section: "Navigation",
           handler: () => {
