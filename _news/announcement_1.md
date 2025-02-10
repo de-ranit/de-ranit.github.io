@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-28 15:59:00-0400
+date: 2024-09-10 15:00:00-0400
 inline: true
 related_posts: false
 ---
 
-The revised version of our <a href='https://doi.org/10.22541/essoar.172656939.93739740/v2'>preprint</a> on "Addressing Challenges in Simulating Inter-annual Variability of Gross Primary Production" is out.
+I contributed a <a href='https://www.youtube.com/live/mOMRNTvfQJk?feature=shared&t=6h11m59s'>talk</a> at <a href='https://www.icos-cp.eu/news-and-events/science-conference/icos2024sc'>ICOS Science Conference 2024</a>. The abstract (no. 46) of the talk is <a href='https://www.icos-cp.eu/news-and-events/science-conference/icos2024sc/all-abstracts'>here</a>.
