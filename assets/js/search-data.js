@@ -30,8 +30,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-contributed-a-talk-at-icos-science-conference-2024-read-the-abstract-no-46-here",
-          title: 'I contributed a talk at ICOS Science Conference 2024. Read the abstract (no....',
+        },{id: "news-i-contributed-a-talk-at-icos-science-conference-2024-the-abstract-no-46-of-the-talk-is-here",
+          title: 'I contributed a talk at ICOS Science Conference 2024. The abstract (no. 46)...',
           description: "",
           section: "News",},{id: "news-the-revised-version-of-our-preprint-on-addressing-challenges-in-simulating-inter-annual-variability-of-gross-primary-production-is-out",
           title: 'The revised version of our preprint on “Addressing Challenges in Simulating Inter-annual Variability...',
