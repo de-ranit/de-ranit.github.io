@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Doctoral researcher in Biogeosciences @ <a href='https://www.bgc-jena.mpg.de/en'> Max Planck Institute for Biogeochemistry</a>.<br>Currently based in <a href='https://maps.app.goo.gl/SosmjeHJGRcJUWkU9'>Jena</a>, Germany.
 
