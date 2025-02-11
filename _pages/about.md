@@ -32,6 +32,6 @@ Other than work, I am interested in exploring local landscapes ⛰️ by trains 
 <h2>Research Interest</h2>
 <ul>
   <li>Global carbon cycle</li>
-  <li>Simulating GPP flux</li>
+  <li>Eddy covariance</li>
   <li>Model-Data assimilation</li>
 </ul>
