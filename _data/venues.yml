@@ -5,3 +5,15 @@
 "JAMES":
   url: https://agupubs.onlinelibrary.wiley.com/journal/19422466
   color: "#033F56"
+
+"ITC":
+  url: https://www.itc.nl/
+  color: "#038586"
+
+"ICOS Sc. Con.":
+  url: https://www.icos-cp.eu/news-and-events/science-conference
+  color: "#E41C63"
+
+"EGU'23":
+  url: https://egu23.eu/
+  color: "#1273BB"
