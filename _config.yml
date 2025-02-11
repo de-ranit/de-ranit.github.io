@@ -295,7 +295,7 @@ scholar:
 
   sort_by: year, month 
   order: descending, descending 
-  type_order: [unpublished, article, inbook, conference, incollections, inproceedings, proceedings, book, misc, techreport, phdthesis] 
+  type_order: [article, unpublished, inproceedings, phdthesis, inbook, conference, incollections,  proceedings, book, misc, techreport]
   type_names: {unpublished: Pre-prints / In Preparation, article: Journal Articles, phdthesis: Thesis, inproceedings: Conference Presentations}
 
 # Display different badges withs stats for your publications
