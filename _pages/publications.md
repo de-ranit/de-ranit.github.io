@@ -9,6 +9,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography -f de-ranit --group_by type %}
 
 </div>
