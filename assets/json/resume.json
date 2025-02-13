@@ -16,9 +16,11 @@
   },
   "work": [
     {
-      "name": "Max Planck Institute for Biogeochemistry and Friedrich Schiller University Jena",
+      "name_one": "Max Planck Institute for Biogeochemistry and Friedrich Schiller University Jena",
+      "name_two": "Friedrich Schiller University Jena",
       "location": "Jena, Germany",
-      "url": "https://www.bgc-jena.mpg.de/en/bgi/home",
+      "url_one": "https://www.bgc-jena.mpg.de/en/bgi/home",
+      "url_two": "https://www.chemgeo.uni-jena.de/en/30778/giscience",
       "position": "Doctoral researcher",
       "startDate": "2021-09-01",
       "summary": "Evaluation of light use efficiency based models in simulating gross primary productivity across various temporal resolutions and sites using different model structures and parameterization strategies."
