@@ -21,6 +21,7 @@
       "location": "Jena, Germany",
       "url_one": "https://www.bgc-jena.mpg.de/en/bgi/home",
       "url_two": "https://www.chemgeo.uni-jena.de/en/30778/giscience",
+      "icon": "MPI_BGC_vertical_E_green_cmyk.png",
       "position": "Doctoral researcher",
       "startDate": "2021-09-01",
       "summary": "Evaluation of light use efficiency based models in simulating gross primary productivity across various temporal resolutions and sites using different model structures and parameterization strategies."

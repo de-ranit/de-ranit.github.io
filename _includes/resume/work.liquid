@@ -29,6 +29,22 @@
                   </td>
                 </tr>
               {% endif %}
+              {% if content.icon %}
+                <br><br>
+                {% if content.icon contains '://' %}
+                  <img class="preview z-depth-1 rounded" src="{{ content.icon }}">
+                {% else %}
+                  {% assign entry_path = content.icon | prepend: '/assets/img/icons/' %}
+                  {%
+                    include figure.liquid
+                    path=entry_path
+                    sizes = "200px"
+                    class="preview z-depth-1 rounded"
+                    zoomable=false
+                    alt=content.icon
+                  %}
+                {% endif %}
+              {% endif %}
             </tbody>
           </table>
         </div>
