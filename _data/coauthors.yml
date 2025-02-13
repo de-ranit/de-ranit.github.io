@@ -1,7 +1,28 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Bao":
+  - firstname: ["Shanning", "S.", "Shanning Bao"]
+    url: https://pure.mpg.de/cone/persons/resource/persons267427?lang=en
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Carvalhais":
+  - firstname: ["Nuno", "N.", "Nuno Carvalhais"]
+    url: https://www.bgc-jena.mpg.de/person/ncarval/5335138
+
+"Koirala":
+  - firstname: ["Sujan", "S.", "Sujan Koirala"]
+    url: https://www.bgc-jena.mpg.de/person/skoirala/2206
+
+"Brenning":
+  - firstname: ["Alexander", "A.", "Alexander Brenning"]
+    url: https://www.chemgeo.uni-jena.de/en/30866/brenning
+
+"Reichstein":
+  - firstname: ["Markus", "M.", "Markus Reichstein"]
+    url: https://www.bgc-jena.mpg.de/en/reichstein.html
+
+"Alonso":
+  - firstname: ["Lazaro", "Lazaro Alonso", "L.", "L. A.", "Lazaro Alonso Silva"]
+    url: https://www.bgc-jena.mpg.de/person/lalonso/2206
+
+"Wang":
+  - firstname: ["Siyuan", "S.", "Siyuan Wang"]
+    url: https://www.bgc-jena.mpg.de/person/swang/2206
+
