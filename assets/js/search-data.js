@@ -36,6 +36,9 @@ ninja.data = [{
           section: "News",},{id: "news-the-revised-version-of-our-preprint-on-addressing-challenges-in-simulating-inter-annual-variability-of-gross-primary-production-is-out",
           title: 'The revised version of our preprint on “Addressing Challenges in Simulating Inter-annual Variability...',
           description: "",
+          section: "News",},{id: "news-our-new-pre-print-is-out-this-study-tackles-the-challenge-of-identifying-time-varying-model-parameters-to-improve-simulations-of-annual-gross-primary-production-gpp-and-explores-their-implications-for-understanding-gpp-dynamics",
+          title: 'Our new pre-print is out. This study tackles the challenge of identifying time-varying...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -82,6 +85,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
+        id: 'social-bluesky',
+        title: 'Bluesky',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://bsky.app/profile/ranitde.bsky.social", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
