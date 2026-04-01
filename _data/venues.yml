@@ -18,6 +18,10 @@
   url: https://egu23.eu/
   color: "#1273BB"
 
+"EGU 2026":
+  url: https://egu26.eu/
+  color: "#1273BB"
+
 "EGU MA Conf.":
   url: https://meetings.copernicus.org/mac1-coupling/
   color: "#1273BB"
