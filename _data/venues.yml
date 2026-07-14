@@ -25,3 +25,7 @@
 "EGU MA Conf.":
   url: https://meetings.copernicus.org/mac1-coupling/
   color: "#1273BB"
+
+"GEWEX PAN-GLASS":
+  url: https://www.gewexevents.org/meetings/glass2026/
+  color: "#E29836"
