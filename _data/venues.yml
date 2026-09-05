@@ -6,6 +6,10 @@
   url: https://agupubs.onlinelibrary.wiley.com/journal/19422466
   color: "#033F56"
 
+"ESSD":
+  url: https://www.earth-system-science-data.net/home.html
+  color: "#336690"
+
 "ITC":
   url: https://www.itc.nl/
   color: "#038586"
